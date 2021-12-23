@@ -5,7 +5,7 @@
   <br> I like snowboarding, and animals, and I play too many videogames :sparkles:<br>
   <img src="https://i.imgur.com/vP0qxPQ.gif" width="240px" align="center"><br>
   <br><br>🦜 Would you like to know more? :point_right: Follow me on <a href="https://twitter.com/mattwestcott">twitter</a>.
-  <br>:money_with_wings: Got a dollar and a kind heart? Sponsor my open-source projects <a href="https://github.com/sponsors/mattwestcott">here</a>.<br>
+  <br><br>:money_with_wings: Got a dollar and a kind heart? Sponsor my open-source projects <a href="https://github.com/sponsors/mattwestcott">here</a>.<br>
   (and be sure to follow any current sponsors).
 </samp>
 <br><br>
