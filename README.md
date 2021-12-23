@@ -1,5 +1,5 @@
 
-<div>
+<samp>
   :wave: Hi! I'm Matt and do code for <a href="https://www.showroom-live.com">SHOWROOM</a>.
   <br><br>I'm currently building sites with Vue and Nuxt.js, and mobile apps with Flutter and Swift.
   <br> I like snowboarding, and animals, and I play too many videogames :sparkles:<br>
@@ -7,8 +7,8 @@
   <br><br>🦜 Would you like to know more? :point_right: Follow me on <a href="https://twitter.com/mattwestcott">twitter</a>.
   <br>:money_with_wings: Got a dollar and a kind heart? Sponsor my open-source projects <a href="https://github.com/sponsors/mattwestcott">here</a>.<br>
   (and be sure to follow any current sponsors).
-</div>
-
+</samp>
+<br><br>
 <details>
   <summary><b>:alien: Send encrypted emails...</b></summary>
   <p>
