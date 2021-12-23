@@ -20,7 +20,7 @@
   <p>
   ... to github.lm88y@dralias.com
 
-    <pre>-----BEGIN PGP PUBLIC KEY BLOCK-----
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
     Version: OpenPGP.js v4.10.10
     Comment: https://openpgpjs.org
 
@@ -34,6 +34,6 @@
     l8rewMWZyBznAP0cR7AzBJRp2f4+v1WWREbHQtLw+yTigfBpeIlW0OEFawD/
     a89mVNO4R9SPEL6CToSAFOHhJa+gYgAWwS6TKcCr+AU=
     =ETtK
-    -----END PGP PUBLIC KEY BLOCK-----</pre>
+    -----END PGP PUBLIC KEY BLOCK-----
    </p>
 </details>
