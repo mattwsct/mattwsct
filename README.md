@@ -9,7 +9,7 @@
     <br> I like snowboarding, and animals, and I play too many videogames :sparkles:<br>
     <!-- <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center"> -->
     <img src="https://i.imgur.com/vP0qxPQ.gif" width="240px" align="center"><br>
-    <br><br>🦜 Would you like to know more? :point_right: Follow me on <a href="https://twitter.com/mattwestcott">twitter</a>
+    <br><br>🦜 Would you like to know more? :point_right: Follow me on <a href="https://twitter.com/mattwestcott">twitter</a>.
     <br>:money_with_wings: Got a dollar and a kind heart? Sponsor my open-source projects <a href="https://github.com/sponsors/mattwestcott">here</a>.<br>
     (and be sure to follow any current sponsors).
   </samp>
@@ -34,7 +34,6 @@
     l8rewMWZyBznAP0cR7AzBJRp2f4+v1WWREbHQtLw+yTigfBpeIlW0OEFawD/
     a89mVNO4R9SPEL6CToSAFOHhJa+gYgAWwS6TKcCr+AU=
     =ETtK
-    -----END PGP PUBLIC KEY BLOCK-----
-    </pre>
+    -----END PGP PUBLIC KEY BLOCK-----</pre>
    </p>
 </details>
