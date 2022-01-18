@@ -1,6 +1,6 @@
 
 <samp>
-  🙋🏼‍♂️ Hi! I'm Matt and do front-end app development for <a href="https://www.showroom-live.com">SHOWROOM</a>.
+  🙋🏼‍♂️ Hi! I'm Matt and do frontend app development for <a href="https://www.showroom-live.com">SHOWROOM</a>.
   <br><br>I'm currently building websites with Vue and TypeScript, and mobile apps with Flutter and Swift.
   <br> I like snowboarding, and animals, and snowboarding animals... and I love videogames :sparkles:<br>
   <img src="https://i.imgur.com/vP0qxPQ.gif" width="240px" align="center"><br>
